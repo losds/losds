@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/losds/count.svg)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=losds)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=losds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
